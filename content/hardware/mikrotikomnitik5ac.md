@@ -22,6 +22,7 @@ As discussed in the [MikroTik Specifics](/hardware/mikrotikspecifics) page, thes
 The below is a template script which needs some variables filled in.  
 This script _only_ works on the OmniTik 5ac PoE model  
 
+<input type="text" id="name" name="name"/>
 <details>
 <summary>Expand for `nycmesh-omnitik-v3.2.rsc` example</summary>
 Version 3.2 Changelog:
